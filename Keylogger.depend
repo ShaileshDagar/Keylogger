@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1560915656 source:c:\users\dagar\onedrive\documents\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"KeyConstants.h"
+	"Helper.h"
+	"Base64.h"
+
+1560662871 c:\users\dagar\onedrive\documents\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1560915720 c:\users\dagar\onedrive\documents\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1560915222 c:\users\dagar\onedrive\documents\keylogger\base64.h
+	<vector>
+	<string>
+
